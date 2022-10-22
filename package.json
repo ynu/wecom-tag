@@ -1,0 +1,25 @@
+{
+  "name": "wecom-tag",
+  "version": "1.0.0",
+  "description": "企业微信API-通讯录-标签 SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynu/wecom-tag.git"
+  },
+  "author": "na57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynu/wecom-tag/issues"
+  },
+  "homepage": "https://github.com/ynu/wecom-tag#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "node-fetch": "^2.6.7",
+    "wecom-common": "^1.1.0",
+    "wecom-user": "^1.0.0"
+  }
+}
